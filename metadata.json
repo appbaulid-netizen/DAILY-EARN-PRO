@@ -1,0 +1,6 @@
+{
+  "name": "Honey & Bunny Invest",
+  "description": "Honey & Bunny Invest platform featuring 100-day investment plans from PKR 300 to PKR 510,000, PKR 35 register bonus, Easypaisa deposits, fast withdrawals from PKR 50, and 3-level referral commissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
